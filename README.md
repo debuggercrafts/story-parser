@@ -1,5 +1,4 @@
-Story 
-Helper function to parse story files using webpack `require.context` api.
+Story helper function to parse story files using webpack `require.context` api.
 
 ## Format
 
